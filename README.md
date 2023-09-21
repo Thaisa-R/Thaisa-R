@@ -21,7 +21,7 @@ Eu sou a Thaísa, sou programadora Front End, atualmente estou aprendendo e dese
 👩🏻‍💻🤝
 <p>
 
-<a href="https://www.linkedin.com/in/tha%C3%ADsa-r-ribeiro-81b9a21b0/">
+<a href="https://www.linkedin.com/in/tha%C3%ADsa-r-81b9a21b0/">
 <img alingn="left" alt="icone do linkedIn"width= 80px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
