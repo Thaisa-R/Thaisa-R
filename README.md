@@ -1,10 +1,9 @@
 ### Hi there 👋
 Sejam bem-vindos !!!
 <br>
-Eu sou a Thaísa Raquel !! 
+Eu sou a Thaísa Raquel, Desenvolvedora Front-End !!
 <br>
-Desenvolvedora Front-End, atualmente estou aprendendo e desenvolvendo projetos com:
-<br>
+Atualmente estou aprendendo e desenvolvendo projetos com:
 <br>
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
 
