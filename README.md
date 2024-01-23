@@ -1,6 +1,7 @@
 ### Hi there 👋
-
-Eu sou a Thaísa Raquel! Sejam bem-vindos!!!
+Sejam bem-vindos !!!
+<br>
+Eu sou a Thaísa Raquel !! 
 Sou Desenvolvedora Front-End, atualmente estou aprendendo e desenvolvendo projetos com:
 <br>
 <br>
