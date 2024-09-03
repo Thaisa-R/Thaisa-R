@@ -1,7 +1,7 @@
 ### Hi there 👋
 Sejam bem-vindos !!!
 <br>
-Eu sou a Thaísa Raquel, Desenvolvedora Front-End !!
+Eu sou a Thaísa Raquel, Desenvolvedora Front-End e Back End Jr!!
 <br>
 Atualmente estou aprendendo e desenvolvendo projetos com:
 <br>
