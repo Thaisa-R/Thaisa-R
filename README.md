@@ -25,4 +25,7 @@ Conecte-se comigo! 🤝👩🏻‍💻
 
 ![Thaísa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thaisa&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thaisa&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thaisa&layout=compact&theme=radical&exclude_repo=repo1,repo2)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thaisa&langs_count=10&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
