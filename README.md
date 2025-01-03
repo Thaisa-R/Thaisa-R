@@ -11,17 +11,21 @@ Atualmente, estou expandindo meus conhecimentos e desenvolvendo projetos com as 
 <br/>
 <br/>
 Em minha jornada profissional, aplico constantemente as melhores práticas de Desenvolvimento Web para criar experiências de usuário excepcionais e sistemas Back-End robustos. Estou sempre focada na melhoria contínua, entregando resultados de alta qualidade que agregam valor para os usuários finais.
-<br/>
+
+
 Estou aberta a colaborações e novas oportunidades desafiadoras que me permitam crescer e inovar. 
 <br/>
+
 Sinta-se à vontade para entrar em contato!
 <br/>
+
 Conecte-se comigo! 🤝👩🏻‍💻 
 <br/>
-<a href="https://www.linkedin.com/in/thaísa-raquel-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo linkedIn"/></a>
 📧 E-mail: thaisaraquel.dev@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/thaisa-raquel) 
 <br/>
+
+<a href="https://www.linkedin.com/in/thaísa-raquel-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo linkedIn"/></a>
+
 <br/>
 <br/>
 
