@@ -16,10 +16,9 @@ Sinta-se à vontade para entrar em contato!
 
 Conecte-se comigo! 🤝👩🏻‍💻 
 
-📧 E-mail: thaisaraquel.dev@gmail.com  
-
-
 <a href="https://www.linkedin.com/in/thaísa-raquel-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo linkedIn"/></a>
+
+📧 E-mail: thaisaraquel.dev@gmail.com  
 
 
 [![Thaisa'R GitHub stats](https://github-readme-stats.vercel.app/api?username=Thaisa&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
