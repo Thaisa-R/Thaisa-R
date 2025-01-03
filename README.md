@@ -25,4 +25,8 @@ Conecte-se comigo! 🤝👩🏻‍💻
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thaisa&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+## 📊 Minhas Estatísticas no GitHub
+
+![Thaísa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thaisa&show_icons=true&theme=radical)
+
 
