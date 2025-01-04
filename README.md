@@ -21,4 +21,5 @@ Conecte-se comigo! 🤝👩🏻‍💻
 📧 E-mail: thaisaraquel.dev@gmail.com  
 
 
-[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,styledcomponents,tailwind,nodejs,docker,mongodb,postgres,mysql,postman)]
+(https://skillicons.dev)
