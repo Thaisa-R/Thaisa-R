@@ -2,9 +2,9 @@ Olá, seja bem-vindo(a) ao meu perfil ! 👋
 
 Sou Thaísa Raquel, uma Desenvolvedora Full Stack apaixonada por criar soluções inovadoras e escaláveis.
 
-Atualmente, estou expandindo meus conhecimentos e desenvolvendo projetos com as seguintes Tecnologias:
+Atualmente, estou expandindo meus conhecimentos e desenvolvendo projetos com:
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/>  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript-logo"/>  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo"/>  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs-logo"/>
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,styledcomponents,tailwind,nodejs,docker,mongodb,postgres,mysql,postman)
 
 
 Em minha jornada profissional, aplico constantemente as melhores práticas de Desenvolvimento Web para criar experiências de usuário excepcionais e sistemas Back-End robustos. Estou sempre focada na melhoria contínua, entregando resultados de alta qualidade que agregam valor para os usuários finais.
@@ -21,5 +21,3 @@ Conecte-se comigo! 🤝👩🏻‍💻
 📧 E-mail: thaisaraquel.dev@gmail.com  
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,styledcomponents,tailwind,nodejs,docker,mongodb,postgres,mysql,postman)]
-(https://skillicons.dev)
