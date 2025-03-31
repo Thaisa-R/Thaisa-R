@@ -1,14 +1,14 @@
 Olá, seja bem-vindo(a) ao meu perfil ! 👋 
 
-Sou Thaísa Raquel, uma Desenvolvedora Full Stack apaixonada por criar soluções inovadoras e escaláveis.
+Sou Thaísa Raquel, uma Desenvolvedora Full-Stack apaixonada por criar soluções inovadoras e escaláveis.
 
 Atualmente, estou expandindo meus conhecimentos e desenvolvendo projetos com:
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,styledcomponents,tailwind,nodejs,docker,mongodb,postgres,mysql,postman)
 
 
-Em minha jornada profissional, aplico constantemente as melhores práticas de Desenvolvimento Web para criar experiências de usuário excepcionais e sistemas Back-End robustos. Estou sempre focada na melhoria contínua, entregando resultados de alta qualidade que agregam valor para os usuários finais.
-
+Em minha jornada profissional, aplico constantemente as melhores práticas de Desenvolvimento Web para criar experiências de usuário excepcionais e sistemas Back-End robustos. 
+Estou sempre focada na melhoria contínua, entregando resultados de alta qualidade que agregam valor para os usuários finais.
 
 Estou aberta a colaborações e novas oportunidades desafiadoras que me permitam crescer e inovar. 
 
