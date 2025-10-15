@@ -1,6 +1,6 @@
 Olá, seja bem-vindo(a) ao meu perfil ! 👋 
 
-Sou Thaísa Raquel, uma Desenvolvedora FullStack apaixonada por criar soluções inovadoras e escaláveis.
+Sou Thaísa Raquel, uma Desenvolvedora FullStack Jr. apaixonada por criar soluções inovadoras e escaláveis.
 
 Atualmente, estou expandindo meus conhecimentos e desenvolvendo projetos com:
 
