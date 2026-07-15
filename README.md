@@ -28,6 +28,10 @@ Aqui no meu GitHub você encontrará projetos focados em resolver problemas reai
 
 ### 🤝 Conecte-se Comigo!
 
+Estou sempre aberta a novas conexões e projetos desafiadores.
+
 💼 **LinkedIn:** [linkedin.com/in/thaisa-raquel-dev](https://www.linkedin.com/in/thaisa-raquel-dev/)
+
 🌐 **Portfólio:** [thaisa-raquel.web.app](https://thaisa-raquel.web.app/)
+
 📧 **E-mail:** thaisaraquel.dev@gmail.com
