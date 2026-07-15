@@ -26,15 +26,6 @@ Aqui no meu GitHub você encontrará projetos focados em resolver problemas reai
 
 ---
 
-### 📈 Minhas Estatísticas do GitHub
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thaisa-R&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thaisa-R&layout=compact&langs_count=7&theme=dark"/>
-</p>
-
----
-
 ### 🤝 Conecte-se Comigo!
 
 Estou sempre aberta a novas oportunidades, conexões e projetos desafiadores.
